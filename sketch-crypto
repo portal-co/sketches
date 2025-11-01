@@ -1,0 +1,8 @@
+Sketch 1:
+
+tbh I had a similar idea, tho my sketch would go like this:
+1. merges would be allowed, unlike most ledgers (and like Git), as long as merged blocks dont contradict each other
+2. proof-of work would be required for all blocks, but they are mined by users on-the-fly
+3. users would post their public key on the ledger to evade sybil attacks whilst keeping decentralization and avoiding currency
+4. all that would go on the ledger would be zero-knowledge proofs, made in the VOLE-in-the-head scheme from [FAEST](https://faest.info/); user keys would, similarly, be FAEST keys
+
